@@ -1,20 +1,10 @@
 ---
-title: "He-Liang Huang"
-excerpt: "Associate Professor of Henan Key Laboratory of Quantum Information and Cryptography<br/>
+title: "He-Liang Huang (PI & Advisor)"
+excerpt: "He-Liang Huang is Associate Professor of Henan Key Laboratory of Quantum Information and Cryptography <br/>
+My research was conducted under the guidance of Professor Huang <br/>
 
 <img src='/images/people/hhl.png'>"
 collection: portfolio
 ---
 
-HHl advisor
 
-
----
-title: "Tian-ci Tian"
-excerpt: "Short description of portfolio item number 1<br/>
-
-<img src='/images/450x300.png'>"
-collection: portfolio
----
-
-introduction test
