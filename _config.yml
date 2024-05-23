@@ -22,9 +22,9 @@ repository               : "https://quantumlabhome.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tian Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Phd student of Henan Key Laboratory of Quantum Information and Cryptography"
   location         : "Zhengzhou Henan 450000"
   email            : "felix.litian@foxmail.com" 
 
