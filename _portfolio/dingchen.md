@@ -3,8 +3,8 @@ title: "Chen Ding"
 excerpt: " Phd student of Henan Key Laboratory of Quantum Information and Cryptography"
 collection: portfolio
 ---
-**This space serves as a temporary digital home for her infomation achievements.**
-
+**This space serves as a temporary digital home for his information and achievements.**
+<br>
 Chen Ding is a Phd student degree student of Henan Key Laboratory of Quantum 
 
 Her publications including:
