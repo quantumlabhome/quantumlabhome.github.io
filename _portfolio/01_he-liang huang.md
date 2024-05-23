@@ -1,5 +1,5 @@
 ---
-title: "He-Liang Huang (PI & Advisor)"
+title: "He-Liang Huang (PI & Advisor of QCLab)"
 excerpt: "He-Liang Huang is Associate Professor of *Henan Key Laboratory of Quantum Information and Cryptography*. My research was conducted under the guidance of Professor Huang <br/><img src='/images/people/hhl.png'> 
 <br><br><br>
 
