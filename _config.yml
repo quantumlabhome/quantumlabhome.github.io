@@ -21,7 +21,7 @@ repository               : "https://quantumlabhome.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avg1.png"
+  avatar           : "avg.png"
   name             : "Tian Li"
   pronouns         : # example: "she/her"  
   bio              : "Phd student of Henan Key Laboratory of Quantum Information and Cryptography"
