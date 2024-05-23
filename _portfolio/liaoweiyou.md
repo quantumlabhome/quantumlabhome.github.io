@@ -4,7 +4,7 @@ excerpt: " First-year Master's degree student of Henan Key Laboratory of Quantum
 collection: portfolio
 ---
 
-**This space serves as a temporary digital home for his information and achievements.**
+This space serves as a <font color="#dd0000">temporary digital home</font> for his information and achievements.
 <br>
 Wei-You Liao is a First-year Master's degree student of Henan Key Laboratory of Quantum 
 
